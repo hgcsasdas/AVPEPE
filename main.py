@@ -1,8 +1,8 @@
 import speech_recognition as sr
 import pyttsx3
 from datetime import datetime
-from functions.comandos_locales import open_calculator, open_cmd, open_notepad, open_discord, open_League
-from functions.comandos_online import buscar_en_google, buscar_en_wikipedia, poner_en_yt, mandar_was, buscar_en_internet, chiste_random, tiempo_grafico, tiempo
+from functions.comandos_locales import *
+from functions.comandos_online import *
 #from random import choice
 #from utils import opening_text
 
