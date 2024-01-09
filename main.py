@@ -106,8 +106,6 @@ while True:
   
     if 'hola' in query:
         speak('hola señor')
-    elif 'tu puta madre' in query:
-      speak('la tuya que se me abre hijueputa')
     elif 'gracias' in query:
         speak('no hay de qué señor')
     elif 'hora' in query:
